@@ -71,10 +71,6 @@ footer {
 .nav_position {
 display: flex;
 position:fixed
-bottom: 0;
-    left: 0;
-    right: 0;
-    height: 50px;
 
 }
 
